@@ -1,0 +1,171 @@
+/* Navbar */
+.navbar {
+    padding: 16px 32px; /* Atur padding untuk memperbesar ukuran navbar */
+  }
+  .navbar-brand {
+    font-size: 24px; /* Atur ukuran font navbar-brand */
+  }
+  .navbar-toggler {
+    padding: 8px 16px; /* Atur padding pada tombol toggle */
+    font-size: 18px; /* Atur ukuran font pada tombol toggle */
+  }
+  .navbar-nav .nav-link {
+    font-size: 20px; /* Atur ukuran font pada link navbar */
+  }  
+
+.navbar {
+    background-color: #ffffff; /* Warna latar belakang */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+  }
+  
+  .navbar-brand {
+    color: #333; /* Warna teks */
+    font-size: 24px; /* Ukuran teks */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #333; /* Warna teks */
+    font-size: 18px; /* Ukuran teks */
+  }
+  
+  /* Efek Transparansi */
+  .navbar {
+    opacity: 0.9; /* Opacity 90% */
+  }
+  
+  /* Perubahan Warna saat Dihover */
+  .navbar-nav .nav-link:hover {
+    color: #007bff; /* Warna teks saat dihover */
+  }
+  
+/* Custom CSS untuk carousel */
+.carousel-item img {
+    max-width: 100%; /* Atur lebar maksimum gambar sesuai lebar carousel */
+    height: 500px; /* Biarkan tinggi gambar mengikuti proporsi aslinya */
+  }
+  
+/* Penataan Teks */
+section p {
+    line-height: 1.6;
+  }
+  
+  /* Penambahan Margin */
+  h2, p {
+    margin-bottom: 20px;
+  }
+  
+  /* Penyesuaian Warna Footer */
+  footer {
+    background-color: #343a40;
+  }
+  
+  /* Responsif */
+  @media (max-width: 768px) {
+    h2 {
+      font-size: 24px;
+    }
+  }
+  
+  /* Efek Transisi Carousel */
+  .carousel-item {
+    transition: opacity 1s ease-in-out;
+    object-fit: cover; /* Pastikan gambar mencakup seluruh area carousel */
+  }
+
+/* Penataan Teks */
+#section1 p {
+    line-height: 1.6;
+  }
+  
+  /* Penyesuaian Warna Teks dan Latar Belakang */
+  #section1 {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    color: #333; /* Warna teks */
+  }
+  
+  /* Penambahan Margin dan Padding */
+  #section1 .container {
+    padding-top: 20px; /* Padding di bagian atas */
+    padding-bottom: 20px; /* Padding di bagian bawah */
+  }
+  
+  #section1 h2 {
+    margin-bottom: 20px; /* Margin di bagian bawah judul */
+  }
+  
+  #section1 p {
+    margin-bottom: 10px; /* Margin di bagian bawah paragraf */
+  }
+  
+  /* Penyesuaian Warna Tombol Video */
+  #section1 video {
+    background-color: #fff; /* Warna latar belakang video */
+    border: 1px solid #ddd; /* Border video */
+    border-radius: 10px; /* Border radius video */
+    margin-top: 20px; /* Margin di bagian atas video */
+  }
+  
+  #section2 p {
+    line-height: 1.6;
+  }
+  
+  /* Penyesuaian Warna Teks dan Latar Belakang */
+  #section2 {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    color: #333; /* Warna teks */
+  }
+  
+  /* Penambahan Margin dan Padding */
+  #section2 .container {
+    padding-top: 20px; /* Padding di bagian atas */
+    padding-bottom: 20px; /* Padding di bagian bawah */
+  }
+  
+  #section2 h2 {
+    margin-bottom: 20px; /* Margin di bagian bawah judul */
+  }
+  
+  #section2 p {
+    margin-bottom: 10px; /* Margin di bagian bawah paragraf */
+  }
+  
+  /* Penyesuaian Warna Tombol Video */
+  #section2 video {
+    background-color: #fff; /* Warna latar belakang video */
+    border: 1px solid #ddd; /* Border video */
+    border-radius: 10px; /* Border radius video */
+    margin-top: 20px; /* Margin di bagian atas video */
+  }
+  
+  #section3 p {
+    line-height: 1.6;
+  }
+  
+  /* Penyesuaian Warna Teks dan Latar Belakang */
+  #section3 {
+    background-color: #f8f9fa; /* Warna latar belakang */
+    color: #333; /* Warna teks */
+  }
+  
+  /* Penambahan Margin dan Padding */
+  #section3 .container {
+    padding-top: 20px; /* Padding di bagian atas */
+    padding-bottom: 20px; /* Padding di bagian bawah */
+  }
+  
+  #section3 h2 {
+    margin-bottom: 20px; /* Margin di bagian bawah judul */
+  }
+  
+  #section3 p {
+    margin-bottom: 10px; /* Margin di bagian bawah paragraf */
+  }
+  
+  /* Penyesuaian Warna Tombol Video */
+  #section3 video {
+    background-color: #fff; /* Warna latar belakang video */
+    border: 1px solid #ddd; /* Border video */
+    border-radius: 10px; /* Border radius video */
+    margin-top: 20px; /* Margin di bagian atas video */
+  }
+  
